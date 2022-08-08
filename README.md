@@ -1,0 +1,2 @@
+# iqi-resolusi
+latihan pertama
